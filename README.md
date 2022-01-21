@@ -13,7 +13,7 @@ Funcionamiento del juego:
     La configuracion inicial de la base de datos (driver, user y password) la obtiene de un archivo "C:\\Juego.ini".
     Modificar solo el user si el de ustedes no es root y la password, hacerlo en la linea correspondiente.
     Este archivo está en la carpeta scrip_mysql asi como el script mysql, pegarlo en "C:".
-    La base de datos se llama "juego_preguntas" crear el schema en mysql e importar el script a ese schema.
+    La base de datos se debe llamar "juego_preguntas", crear el schema en mysql e importar el script a ese schema.
  	El ejecutble (archivo JAR) esta en la carpeta JAR/dist, ejecutarlo dentro de la carpeta dist o crear un acceso directo al escritorio.
  	
  	El proyecto general es la carpeta "Juego". 
